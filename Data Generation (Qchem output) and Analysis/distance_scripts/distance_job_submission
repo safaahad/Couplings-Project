@@ -1,0 +1,4 @@
+#!/bin/bash
+# FILENAME: distance_job_submission
+
+bash run_distance.sh > shift3_distance.csv
